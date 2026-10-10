@@ -24,7 +24,7 @@ A technical study of the Boeing 737 MAX Maneuvering Characteristics Augmentation
 
 Skills: Aircraft systems, flight control principles, technical analysis, safety investigation.
 
-4. Mini Tape Dispenser — Design and Manufacturing
+3. Mini Tape Dispenser — Design and Manufacturing
 
 Area: Mechanical Design and Manufacturing
 
@@ -32,7 +32,7 @@ Design and manufacture of a functional mini tape dispenser prototype. The projec
 
 Skills: CAD modelling, design optimisation, CNC machining, laser cutting, prototyping, assembly.
 
-6. Fluid Properties Laboratory Investigation
+4. Fluid Properties Laboratory Investigation
    
 Area: Engineering Thermofluids
 An experimental investigation into the density and viscosity of different fluids, including water, washing liquid, olive oil, and golden syrup. A hydrometer and falling-ball viscometer were used to collect measurements and investigate how fluid properties affect flow behaviour.
